@@ -1,0 +1,154 @@
+1. What is the annotation for creating spring rest controller?
+
+A. @RestController
+B. @Restcontroller
+C. @Controller
+D. @restController
+
+2. What is used to create get request in spring rest api?
+A. @Getmapping
+B. @getMapping
+C. @GetMappings
+D. @Getmapping
+
+3. What is Eureka client?
+A. It registers the app as a eureka client on the eureka server
+B. It registers the app as a eureka server on another eureka server
+C. It registers the app as a eureka client on another  eureka client
+D. It registers the app as a eureka client without a server
+
+4. What is Eureka server?
+A. it hosts the spring app
+B. It hosts the micro services
+C. it performs the execution of microservice
+D. it runs the spring app
+
+
+5. Which file is used to configure the spring app?
+A. application.props
+B. app.properties
+C. application.properties
+D. app.pros
+
+6 Which software layer is used to store the object details in spring app?
+A. service
+B. pojo
+C. controller
+D. repository
+
+7 Which layer is used to store the db activities in spring jpa?
+A. service
+B. pojo
+C. controller
+D. repository
+
+8. Which layer is use to perform business service layer 
+A. service
+B. pojo
+C. controller
+D. repository
+
+9. What is loose coupling?
+A. separate the implementation from its interfaces
+B. develop implementation without interfaces
+C. develop interfaces with multiple interface implementation
+D. develop the concrete classes without implementation
+
+10. What is the file used in dependency resolution?
+A. spring.xml
+B. properties.xml
+C. pom.xml
+D. services.xml
+
+
+11. Which one of the following is immutable in python?
+A. set
+B. list
+C. tuple
+D. vector
+
+12. Which one of the following is mutable in python?
+A. set
+B. list
+C. tuple
+D. vector
+
+13. Which one of the following has the key and value pair container?
+A. set
+B. dictionary
+C. tuple
+D. vector
+
+14. Which one of the following is as syntax of for loop in python?
+A. for i in range
+B. for i in ranges
+C. for i to range
+D. for i with range
+
+15. Is intentation mandatory in python?
+A. true
+B. false
+
+16. What is default access specifier of struct in cpp?
+A. private
+B. public
+C. protected
+D. default
+
+
+17. What is default access specifier of class in cpp?
+A. private
+B. public
+C. protected
+D. default
+
+18. In which one of the code the default constructor is found?
+A. class Flower { Flower(){} }
+B. class Flower { }
+C. class Flower { constructor() { } }
+D. class Flower { Flower(int i){} }
+
+19. What is used as pointer indirection?
+A. ->
+B. *
+C. .
+D. &
+
+20. What is dreaded diamond?
+A. ambiguity in the derived classes 
+B. derived class with unique functions
+C. base class with unique functions
+D. none of the above
+
+21. What is scope in CPP?
+A. { }
+B. main()
+C. function()
+D. all of the above
+
+22. What is :: in CPP?
+A. binary operator
+B. member function operator
+C. member relationship operator
+D. scope resolution operator
+
+
+23. What is virtual in inheritance?
+A. it allows function overriding
+B. it allows function overloading
+C. it allows multithreading
+D. it allows multiple inheritance
+
+24. What is virtual in functions in CPP?
+A. it allows function overriding
+B. it allows function overloading
+C. it allows multithreading
+D. it allows multiple inheritance
+
+25. What is auto in CPP?
+A. it destroys the variable
+B. it creates the variable
+C. it automatically creates and destroys the variable
+D. invalid qualifier
+
+
